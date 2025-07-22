@@ -1,0 +1,10 @@
+app_content_quotes.settings:
+  type: config_object
+  label: 'APP Content Quotes settings'
+  mapping:
+    api_url:
+      type: string
+      label: 'The API url'
+    limit_random:
+      type: string
+      label: 'Limit of quotes for rundom query'

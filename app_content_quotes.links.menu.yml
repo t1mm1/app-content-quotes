@@ -1,0 +1,12 @@
+app_content_quotes:
+  title: 'APP Content Quotes'
+  parent: system.admin_config_content
+  description: 'APP Content Quotes examples.'
+  route_name: app_content_quotes
+  weight: -999
+
+app_content_quotes.settings_form:
+  title: 'APP Content Quotes settings'
+  parent: app_content_quotes
+  description: 'Settings form of APP Content Quotes.'
+  route_name: app_content_quotes.settings_form

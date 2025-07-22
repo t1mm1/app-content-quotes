@@ -1,0 +1,11 @@
+loader:
+  version: VERSION
+  js:
+    js/quote-single-random.js: {}
+  css:
+    theme:
+      css/styles.css: {}
+  dependencies:
+    - core/jquery
+    - core/drupal
+    - core/drupal.once

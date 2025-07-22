@@ -1,0 +1,9 @@
+app_content_quotes:
+  title: APP Content Quotes example
+  route_name: app_content_quotes
+  base_route: app_content_quotes
+
+app_content_quotes.settings_form:
+  title: Settings
+  route_name: app_content_quotes.settings_form
+  base_route: app_content_quotes

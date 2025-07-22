@@ -1,0 +1,11 @@
+name: APP Content Quotes
+type: module
+description: 'Displays a random content quotes via ajax from external REST API.'
+core_version_requirement: ^11
+package: Custom
+configure: app_content_quotes.settings_form
+dependencies:
+  - drupal:rest
+  - drupal:restui
+  - drupal:hal
+  - drupal:serialization
