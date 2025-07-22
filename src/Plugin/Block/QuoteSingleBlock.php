@@ -15,7 +15,7 @@ use Drupal\Core\Link;
  *
  * @Block(
  *   id = "app_content_quotes_quote_single_random_block",
- *   admin_label = @Translation("Quote single random Block")
+ *   admin_label = @Translation("Random single quote")
  * )
  */
 class QuoteSingleBlock extends BlockBase {
