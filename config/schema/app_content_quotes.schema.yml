@@ -7,4 +7,4 @@ app_content_quotes.settings:
       label: 'The API url'
     limit_random:
       type: string
-      label: 'Limit of quotes for rundom query'
+      label: 'Limit of quotes in query'
