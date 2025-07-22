@@ -1,7 +1,7 @@
 # APP Content Quotes
 
-**APP Content Quotes** is a custom Drupal module that displays random quotes via AJAX from an external REST API.
-**This is an example module** as a path of client-server application. Client path was made as a drupal module. The client was created via Node.js (**not provided here**).
+**APP Content Quotes** is a custom Drupal module that displays random quotes via AJAX from an external REST API.  
+_This is an example module as part of a client-server application. The client part is implemented as a Drupal module. The server is created with Node.js (not provided here)._
 
 ## Features
 
